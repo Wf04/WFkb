@@ -1,1 +1,2 @@
-
+config wfkb
+    def_bool $(shields_list_contains,wfkb)
