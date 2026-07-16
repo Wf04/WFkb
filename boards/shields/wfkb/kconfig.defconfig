@@ -1,6 +1,6 @@
-if wfkb
+if SHIELD_WFKB
 
 config ZMK_KEYBOARD_NAME
-    default "wfkb"
+    default "WFKB"
 
 endif
