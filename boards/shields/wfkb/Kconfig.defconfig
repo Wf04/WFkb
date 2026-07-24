@@ -1,6 +1,6 @@
 if SHIELD_WFKB
 
 config ZMK_KEYBOARD_NAME
-    default "WFKB"
+    default "WFKB V2"
 
 endif
