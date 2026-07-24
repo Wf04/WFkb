@@ -1,4 +1,8 @@
 file_format: "1"
 id: wfkb
-name: "WFKB"
+name: WFKB
 type: shield
+url: https://github.com/Wf04/WFkb
+requires: [pro_micro]
+features:
+  - keys
