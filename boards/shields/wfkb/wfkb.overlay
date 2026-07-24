@@ -1,4 +1,4 @@
-#include <nice_nano_v2.dtsi>   /* Add this at the top */
+#include <nice_nano_v2.dtsi>
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {
